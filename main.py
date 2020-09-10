@@ -1,4 +1,8 @@
-
+# Author: Haorong Xu hxx5086@psu.edu 
+# Collaborator: Joshua Chang jvc6690@psu.edu
+# Collaborator: Christian Dell'Edera cmd6705@psu.edu
+# Section: 12
+# Breakout: 16
 
 def getLetterGrade(gd):
   if gd>=93.0:
